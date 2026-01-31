@@ -1,6 +1,6 @@
 --[[  WIP
 Program by Hunter Bays.
-https://raw.githubusercontent.com/Bays246/Computer-Craft-Programs/refs/heads/main/clearArea.lua
+wget "https://raw.githubusercontent.com/Bays246/Computer-Craft-Programs/refs/heads/main/clearArea.lua" clearArea.lua
 
 Clears an area using the pattern below.
 "left"      "right"
